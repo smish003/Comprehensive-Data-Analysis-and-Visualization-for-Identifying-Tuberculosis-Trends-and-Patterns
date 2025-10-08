@@ -20,7 +20,17 @@ Drug-Resistant TB (MDR-TB) treatment with respect to
 the facilities they choose?
 
 ## Tableau Dashboard
-  Below is the Tableau dashboard links:
+  The following Tableau dashboards provide insights into global TB trends and program performance:
+1. **Global Tuberculosis Analysis**
+   - Focuses on **Case Detection**
+   - Examines **Regional Risk Factors**
+   - Provides **Cost Insights**
+
+2. **Regional Insights on MDR-TB**
+   - Analyzes **Facility Utilization**
+   - Reviews **Treatment Visits**
+   - Distributes **Cost Information**
+
   
    [Global Tuberculosis Analysis: Case Detection, Regional Risk Factors, and Cost Insights](https://public.tableau.com/shared/5J2FS4M8S?:display_count=n&:origin=viz_share_link)
 
