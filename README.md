@@ -1,6 +1,3 @@
-# JCDL-2023
-ACM/IEEE JOINT CONFERENCE ON DIGITAL LIBRARIES
-
 ## Data Analysis and Visualization to Identify Tuberculosis Patterns
 
 ### Abstract
