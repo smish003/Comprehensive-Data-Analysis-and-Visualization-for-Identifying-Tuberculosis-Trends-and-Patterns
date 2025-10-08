@@ -24,4 +24,4 @@ the facilities they choose?
   
    [Global Tuberculosis Analysis: Case Detection, Regional Risk Factors, and Cost Insights](https://public.tableau.com/shared/5J2FS4M8S?:display_count=n&:origin=viz_share_link)
 
-  [Global Tuberculosis Pattern Study and Analysis Dashboard](https://public.tableau.com/shared/6D3XST84N?:display_count=n&:origin=viz_share_link)
+   [Regional Insights on MDR-TB: Facility Utilization, Treatment Visits, and Cost Distribution](https://public.tableau.com/shared/6D3XST84N?:display_count=n&:origin=viz_share_link)
