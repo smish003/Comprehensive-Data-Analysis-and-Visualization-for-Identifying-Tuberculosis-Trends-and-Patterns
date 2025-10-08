@@ -1,4 +1,4 @@
-## Data Analysis and Visualization to Identify Tuberculosis Patterns
+## Comprehensive Data Analysis and Visualization for Identifying Tuberculosis Trends and Patterns
 
 ### Abstract
 Global Tuberculosis (TB) Program is governed by
